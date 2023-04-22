@@ -1,2 +1,2 @@
-# college-assignemnts
-My coding as part of BTech in Jain University 2021-25
+# JAVA LAB
+hese files are part of JAVA lab conducted at JAIN UNIVERSITY Banglore.
